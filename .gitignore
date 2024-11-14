@@ -1,1 +1,5 @@
-npm-debug.log 
+# .gitignore
+node_modules/
+.env
+.DS_Store
+build/
