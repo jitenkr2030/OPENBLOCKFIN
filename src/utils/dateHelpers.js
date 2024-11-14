@@ -1,1 +1,5 @@
-// Sample content 
+// src/utils/dateHelpers.js
+export const formatDate = (date) => {
+    return new Date(date).toLocaleDateString();
+  };
+  
